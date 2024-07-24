@@ -1,0 +1,520 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 1400px;
+    margin: 0 auto;
+}
+.contact{
+    display: flex;
+    justify-content: end;
+    gap: 15px;
+    width: 1300px;
+    height: 30px;
+    background-color: gainsboro;
+    color: grey;
+    font-size: 14px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 7px;
+}
+select{
+    border: none;
+    background: none;
+    outline: none;
+    color: grey;
+    padding-bottom: 7px;
+}
+
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 70px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-bottom: 2px black;
+}
+.product{
+    display: flex;
+    gap: 80px;
+}
+.icon{
+    display: flex;
+    gap: 15px;
+}
+.icon2{
+    display: flex;
+    gap: 5px;
+}
+.room{
+    display: flex;
+    gap: 10px;
+    flex-direction: column;
+}
+span{
+    margin-left: 5px;
+}
+
+
+.important{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    gap: 70px;
+    padding: 50px;
+}
+.chicago{
+    width: 1200px;
+    height: 800px;
+}
+.design{
+    width: 15ch;
+    font-size: 40px;
+}
+.offer{
+    width: 48ch;
+    color: grey;
+}
+.text{
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+}
+
+
+.room{
+    width: 545px;
+    height: 400px;
+}
+
+.room2{
+    width: 545px;
+    height: 400px;
+} 
+.room3{
+    width: 545px;
+    height: 400px;
+}
+.room4{
+    width: 545px;
+    height: 400px;
+}
+.first{
+    display: flex;
+    gap: 40px;
+}
+.second{
+    display: flex;
+    gap: 40px;
+}
+.mebel{
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    padding: 80px;
+}
+
+
+
+
+.nike{
+    width: 160px;
+    height: 80px;
+}
+
+.puma{
+    width: 160px;
+    height: 80px;
+}
+.adidas{
+    width: 160px;
+    height: 80px;
+}
+.reebok{
+    width: 160px;
+    height: 80px;
+}
+.hermes{
+    width: 160px;
+    height: 80px;
+}
+.chanel{
+    width: 160px;
+    height: 80px;
+}
+.loro{
+    width: 160px;
+    height: 80px;
+}
+.ricci{
+    width: 160px;
+    height: 80px;
+}
+.parijan{
+    width: 160px;
+    height: 80px;
+}
+.balenciaga{
+    width: 160px;
+    height: 80px;
+}
+.uspa{
+    width: 160px;
+    height: 80px;
+}
+.polo{
+    width: 160px;
+    height: 80px;
+}
+.mclaren{
+    width: 160px;
+    height: 80px;
+}
+.mitsubishi{
+    width: 160px;
+    height: 80px;
+}
+.bugatti{
+    width: 160px;
+    height: 80px;
+}
+.ferrari{
+    width: 160px;
+    height: 80px;
+}
+.lambo{
+    width: 160px;
+    height: 80px;
+}
+.chevro{
+    width: 160px;
+    height: 80px;
+}
+
+.brands{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 80px 120px;
+    
+}
+.logos{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.over{
+    text-align: center;
+}
+.logo{
+    display: flex;
+    gap: 40px;
+}
+.logo2{
+    display: flex;
+    gap: 40px;
+}
+.logo3{
+    display: flex;
+    gap: 40px;
+}
+.carousel{
+    padding: 80px 0;
+}
+
+
+.simple{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 50px 150px;
+}
+.seam{
+    width: 45ch;
+}
+.a{
+    color: green;
+}
+
+.effect{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    padding-bottom: 100px;
+}
+.noise{
+    width: 40ch;
+    font-size: 15px;
+}
+.save{
+    width: 30ch;
+    font-size: 15px;
+}
+.unlike{
+    width: 35ch;
+    font-size: 15px;
+}
+.cost{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.time{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.flex{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+
+
+.girl{
+    width: 1300px;
+    height: 800px;
+    padding: 100px 40px;
+}
+
+
+.take2{
+    padding-left: 350px;
+    width: 45ch;
+    color: grey;
+}
+.take{
+    padding-left: 350px;
+    padding-bottom: 50px;
+}
+.shop{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+
+
+
+
+.bigbox{
+    padding: 100px 100px;
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+}
+
+.meet{
+    width: 600px;
+    height: 600px;
+}
+.box{
+    display: flex;
+    gap: 80px;
+}
+.make{
+    width: 40ch;
+    color: grey;
+}
+.cake{
+    display: flex;
+    gap: 20px;
+    flex-direction: column;
+    padding-top: 200px;
+}
+
+.build{
+    width: 15ch;
+}
+.date{
+    width: 35ch;
+    color: grey;
+}
+.nature{
+    width: 600px;
+    height: 600px;
+}
+.cake2{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding-top: 200px;
+}
+.box2{
+    display: flex;
+    gap: 100px;
+}
+
+
+.delivery{
+    width: 38ch;
+}
+.water{
+    width: 600px;
+    height: 600px;
+}
+.sus{
+    width: 15ch;
+}
+.susde{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding-top: 200px;
+}
+.box3{
+    display: flex;
+    gap: 100px;
+}
+
+
+.people{
+    width: 1300px;
+    height: 800px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+
+
+
+.bigbox2{
+    width: 1100px;
+    height: 350px;
+    background-color: rgb(225, 224, 224);
+    margin: 100px;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+.con{
+    display: flex;
+    gap: 120px;
+    justify-content: center;
+}
+.hun{
+    display: flex;
+    justify-content: center;
+    padding-top: 40px;
+}
+.texty{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.texty2{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.texty3{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.hol{
+    font-size: 12px;
+}
+
+.get{
+    width: 150px;
+    height: 50px;
+    background-color: rgb(114, 186, 114);
+    color: white;
+    font-size: small;
+    border: none;
+    border-radius: 5px;
+}
+.term{
+    margin: 0 470px;
+}
+.cons{
+    font-size: 12px;
+    text-align: center;
+}
+
+.end{
+    width: 1300px;
+    height: 600px;
+    background-color: black;
+    color: white;
+    padding: 80px 120px;
+    display: flex;
+    gap: 100px;
+}
+
+
+
+
+
+.bigger{
+    display: flex;
+    gap: 40px;
+}
+.bir{
+    font-size: 12px;
+}
+.abo{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.sow{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+
+
+.ikki{
+    font-size: 12px;
+}
+
+
+
+.sec{
+    border: none;
+    background: none;
+    outline: none;
+    color: grey;
+    padding-bottom: 7px;
+}
+.inp{
+    background: transparent;
+    border: 1px solid grey;
+    width: 250px;
+    height: 50px;
+}
+
+.section{
+    display: block;
+}
+.check{
+    width: 30px;
+    height: 30px;
+}
+
+.unsubs{
+    display: flex;
+    gap: 10px;
+}
+.subs  {
+    color: grey;
+    font-size: 14px;
+    width: 40ch;
+}  
+
+
+.sign{
+    padding-top: 100px;
+    padding-left: 200px;
+}
